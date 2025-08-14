@@ -16,7 +16,7 @@
 
 ## Installation
 `git clone https://github.com/zakky20/nvim.git`
-##
+#
 `sudo mv nvim ~/.config`
 
 ## License
