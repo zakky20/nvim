@@ -3,7 +3,7 @@
 
 ##
 <p align="center">
-<img src="./preview.png" alt="Image Preview" width="500px">
+<img src="./preview.png" width="500px">
 </p>
 
 ## Requirements / Dependencies
