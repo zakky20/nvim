@@ -15,9 +15,7 @@
 `sudo emerge -va nodejs npm yarn luarocks`
 
 ## Installation
-`git clone https://github.com/zakky20/nvim.git`
-</p>
-`sudo mv nvim ~/.config`
+`git clone https://github.com/zakky20/nvim.git` & `sudo mv nvim ~/.config`
 
 ## License
 This project is licensed under [GPL-3.0](https://raw.githubusercontent.com/Illumina/licenses/master/gpl-3.0.txt).
